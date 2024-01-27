@@ -1,0 +1,5 @@
+color=input("enter the colors separated by commas:")
+color=color.split(",")
+print(color)
+print(color[0])
+print(color[-1])
